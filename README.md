@@ -15,7 +15,7 @@ Un entorno de desarrollo Java configurado en IntelliJ IDEA.
 JDK 20.0.01
 
 
-Reto 1 es canbiar el ciclo for por un while. (Esta es mi aporte)
+Reto 1 es canbiar el ciclo "for" por un "while". (Esta es mi aporte)
 
         int i = 0;
         double mediaEvaluacionUsuario = 0;
